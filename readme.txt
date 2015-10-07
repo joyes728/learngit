@@ -5,4 +5,5 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 The method of branch management
 Creating a new branch called qinhan
+Git stash
 
